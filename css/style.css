@@ -1,4 +1,4 @@
-column {
+.column {
     background: yellow;
     width: 13%;
     float: left;
@@ -24,4 +24,5 @@ body {
 
 h2 {
     background: red;
+    text-align: center;
 }
