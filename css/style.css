@@ -1,0 +1,27 @@
+column {
+    background: yellow;
+    width: 13%;
+    float: left;
+    border: purple;
+    border-width: 1%;
+    padding: 6%;
+}
+
+.column p {
+    color: orange;
+}
+
+.img {
+    width: 30%;
+    margin: auto;
+    height: auto;
+    display: block;
+}
+
+body {
+    background-color: aqua;
+}
+
+h2 {
+    background: red;
+}
